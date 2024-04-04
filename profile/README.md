@@ -1,8 +1,5 @@
-<style>
-table {
-  width: 100%;
-}
-</style>
+## Table of Contents
+
 | BEGINNER            | ADVANCED                  | PROFESSIONAL   |
 |---------------------|---------------------------|----------------|
 | batch-file-renamer  | data-backup-and-sync      | Coming Soon    |
